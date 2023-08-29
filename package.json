@@ -1,0 +1,11 @@
+{
+  "name": "booknow",
+  "version": "1.0.0",
+  "description": "Booknow application lets you book ticket easily for your favourite destination",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tharun",
+  "license": "MIT"
+}
